@@ -2,7 +2,7 @@
 A repository for Braille six key input or Perkins braille concept using QWERTY keyboard in Python
 
 Braille six key input or Perkins Braille uses 6 set of keys, one for each dot in a braille cell.
-To type in braille, use SDFJKL keys only in keyboard (best if keyboard has N-key rollover feature).
+To type in braille, use SDFJKL keys only from keyboard (best if keyboard has N-key rollover feature).
 Different combinations of SDFJKL keys gives different braille code.
 Each key combinations must be pressed and released together at once.
 
